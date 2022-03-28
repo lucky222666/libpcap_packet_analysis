@@ -1,0 +1,6 @@
+#!/bin/bash
+./dns_capture
+./http_capture
+./tcp_capture
+./udp_capture
+./other_capture
